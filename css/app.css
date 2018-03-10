@@ -1,0 +1,13 @@
+.video-container {
+	padding: 20px;
+}
+.video {
+	width: 40%;
+	top: 0;
+	position: fixed;
+}
+.flex-vid {
+	display: flex;
+	justify-content: center;
+	margin: 20px 0;
+}
